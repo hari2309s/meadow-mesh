@@ -1,0 +1,21 @@
+{
+  "size": {
+    "button": {
+      "sm": { "value": "24px" },
+      "md": { "value": "32px" },
+      "lg": { "value": "40px" }
+    },
+    "border": {
+      "sm": { "value": "1px" },
+      "md": { "value": "2px" },
+      "lg": { "value": "4px" }
+    },
+    "general": {
+      "xs": { "value": "4px" },
+      "sm": { "value": "8px" },
+      "md": { "value": "16px" },
+      "lg": { "value": "32px" },
+      "xl": { "value": "64px" }
+    }
+  }
+}

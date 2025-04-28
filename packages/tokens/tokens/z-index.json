@@ -1,0 +1,10 @@
+{
+  "zIndex": {
+    "dropdown": { "value": "1000" },
+    "sticky": { "value": "1100" },
+    "fixed": { "value": "1200" },
+    "modal": { "value": "1300" },
+    "popover": { "value": "1400" },
+    "tooltip": { "value": "1500" }
+  }
+}

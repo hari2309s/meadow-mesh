@@ -4,7 +4,9 @@
   "description": "Meadow Mesh Storybook Docs",
   "scripts": {
     "dev": "storybook dev -p 6006",
-    "prebuild": "pnpm --filter @meadow-mesh/components build",
+    "build:tokens": "pnpm --filter @meadow-mesh/tokens build",
+    "build:components": "pnpm -r --filter @meadow-mesh/components build",
+    "prebuild": "pnpm build:tokens && pnpm build:components",
     "build": "storybook build"
   },
   "dependencies": {

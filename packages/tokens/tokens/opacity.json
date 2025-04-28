@@ -1,0 +1,8 @@
+{
+  "opacity": {
+    "disabled": { "value": "0.4" },
+    "semi": { "value": "0.7" },
+    "overlay": { "value": "0.9" },
+    "full": { "value": "1" }
+  }
+}
