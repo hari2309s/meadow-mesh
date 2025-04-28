@@ -1,0 +1,13 @@
+{
+  "color": {
+    "primary": {
+      "value": "#00ACC1"
+    },
+    "secondary": {
+      "value": "#B39DDB"
+    },
+    "accent": {
+      "value": "#FFB300"
+    }
+  }
+}

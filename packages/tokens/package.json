@@ -1,0 +1,11 @@
+{
+  "name": "@meadow-mesh/tokens",
+  "version": "0.0.1",
+  "description": "Meadow Mesh Design Tokens",
+  "scripts": {
+    "build": "style-dictionary build --config config.json"
+  },
+  "devDependencies": {
+    "style-dictionary": "^3.9.2"
+  }
+}
