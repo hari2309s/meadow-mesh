@@ -11,9 +11,10 @@
     "build:components": "pnpm -r --filter @meadow-mesh/components build",
     "dev:docs": "pnpm -r --filter @meadow-mesh/docs dev",
     "build:docs": "pnpm -r --filter @meadow-mesh/docs build",
-    "build:tokens": "pnpm -r --filter @meadow-mesh/tokens build",
+    "build:tokens": "pnpm --filter @meadow-mesh/tokens build",
     "lint": "eslint . --ext .ts,.tsx",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "build:storybook": "pnpm run build:tokens && pnpm --filter @meadow-mesh/docs run build"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^8.31.0",

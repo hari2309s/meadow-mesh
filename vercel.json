@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "src": "packages/docs",
+      "buildCommand": "pnpm run build",
+      "outputDirectory": "storybook-static"
+    },
+    {
+      "src": "homepage",
+      "outputDirectory": "."
+    }
+  ]
+}
