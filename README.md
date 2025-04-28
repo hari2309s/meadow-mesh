@@ -1,4 +1,4 @@
-# meadow-mesh
+# Meadow Mesh
 
 Hop, skip, and jump to intuitive interfaces with Meadow Mesh 🐰🥕
 
