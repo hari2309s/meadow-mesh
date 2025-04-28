@@ -1,6 +1,6 @@
 # Meadow Mesh
 
-Hop, skip, and jump to intuitive interfaces with Meadow Mesh 🐰🥕
+Design systems should feel like second nature. Welcome to Meadow Mesh 🐰🥕
 
 A modern, scalable monorepo for building reusable UI components, design tokens, and documentation using [pnpm workspaces](https://pnpm.io/workspaces).
 
